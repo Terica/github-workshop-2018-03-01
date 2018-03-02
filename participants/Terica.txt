@@ -1,9 +1,13 @@
 Participant info
 ================
 
-dhood
-=====
+Terica Douglas
 
-Research roboticist
+Web developer that enjoys ruby and making websites
 
-**Motivation:** have something to point people to when they ask if I know how to program, instead of trying to convince them (unconvincingly).
+*
+fun_fact: I think women make better bassists than men
+
+*Motivation:** have something to point people to when they ask if I know how to program, instead of trying to convince them (unconvincingly).
+
+
